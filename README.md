@@ -10,7 +10,7 @@ I have gained a lot of experience through taking part in audit procedures implem
 The culture and ethics of working with data is amongst the things I have learned as a member of audit teams so I usually do not use public repositories. 
 However I managed to pick a few projects for demonstration purposes and I am thrilled to show them to you.  
 
-Feel free to contact me at [nik.kiriushkin@gmail.com](nik.kiriushkin@gmail.com)  
+Feel free to contact me at [nik.kiriushkin@gmail.com](mailto:nik.kiriushkin@gmail.com)  
 and have a nice day!
 
 <!--
