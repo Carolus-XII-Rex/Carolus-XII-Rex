@@ -13,17 +13,14 @@ However I managed to pick a few projects for demonstration purposes and I am thr
 Feel free to contact me at [nik.kiriushkin@gmail.com](mailto:nik.kiriushkin@gmail.com)  
 and have a nice day!
 
-<!--
-**Carolus-XII-Rex/Carolus-XII-Rex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+P.S.  
+Just one more thing :wink:    
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> You know, sir, it's a funny thing. All my life I kept running into smart people. I don't just mean smart like you and the people in this house. You know what I mean. In school, there were lots of smarter kids. And when I first joined the force, sir, they had some very clever people there. And I could tell right away that it wasn't gonna be easy making detective as long as they were around. But I figured, if I worked harder than they did, put in more time, read the books, kept my eyes open, maybe I could make it happen. And I did. And I really love my work, sir.  
+  
+© Lieutenant Columbo
+
+<p align="center">
+  <img src="/Screenshots/Columbo.jpg" alt="Columbo">
+</p>
